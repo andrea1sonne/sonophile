@@ -5,4 +5,4 @@ This is a python-based implementation.
 
 We're working on command line argument support.
 
-We're a cool team. Join us!
+We're a cool team. Join us now!
