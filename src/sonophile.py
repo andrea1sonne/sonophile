@@ -1,3 +1,6 @@
-print("This is sonophile!")
+def run():
+    # command line parser goes here
+    print("This is sonophile!")
 
-# command line parser goes here
+if __name__ == "__main__":
+    run()
